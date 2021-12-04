@@ -2,5 +2,5 @@
 
 
 ##### Team Members
-1.Simran
-2.Simran Singh
+Simran
+Simran Singh
